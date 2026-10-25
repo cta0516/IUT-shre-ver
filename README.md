@@ -1,6 +1,11 @@
-1.2
-2026-9-25
-更新日志：1.修复安卓11包可见性问题  2.修改分享字节大小限制  3.尝试增加自动更新应用功能   如果无法更新，请到官方群聊或https://wwauj.lanzouc.com/iAXB549w5k7i
-密码:fb88  获取  
-https://wwauj.lanzouc.com/iC5HA4c7tc1g
-7kiy
+1.3
+2026-10-25
+1.3更新日志
+1.增加公告功能
+2.新增红包分享，需要XP/LSP，可以发送0积分红包并自定义祝福语（Tips：禁言状态也可以发送！）
+3.增加新界面和一些系统设置，之后会拓展
+4.修复已知问题，提升使用稳定性
+获取请点击下载按钮或前往https://wwauj.lanzouc.com/i32M84daw9sh
+密码:g69r或QQ群获取
+https://wwauj.lanzouc.com/i32M84daw9sh
+g69r
