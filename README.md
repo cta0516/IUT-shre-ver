@@ -4,7 +4,5 @@
 1.修复XP模块检测问题
 2.修复已知问题，提升使用稳定性
 历史更新日志请更新后前往公告获取
-获取请点击下载按钮或前往https://wwauj.lanzouc.com/i730h4dwwpob
-密码:an79或QQ群获取
 https://wwauj.lanzouc.com/i730h4dwwpob
 an79
