@@ -4,5 +4,5 @@
 1.修复已知问题，提升使用稳定性
 2.11月快乐，本应用因作者个人原因，想要出售源码/转卖，有意者QQ3998062009，80以上，本应用的下载量已有500+
 历史更新日志请更新后前往公告获取
-https://wwauj.lanzouc.com/iReWc4e8r96j
-gb3k
+https://wwauj.lanzouc.com/iry2G4e8snle
+9wau
