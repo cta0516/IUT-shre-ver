@@ -1,8 +1,7 @@
-1.4
+1.4Fix
 2026-10-29
-1.4更新日志
-1.修复XP模块检测问题
-2.修复已知问题，提升使用稳定性
+1.4Fix更新日志
+1.修复已知问题，提升使用稳定性
 历史更新日志请更新后前往公告获取
-https://wwauj.lanzouc.com/i730h4dwwpob
-an79
+https://wwauj.lanzouc.com/iReWc4e8r96j
+gb3k
